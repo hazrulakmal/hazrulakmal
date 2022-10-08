@@ -16,12 +16,10 @@
 
 __________________________
 
-I'm a Mathematics and Statistics student at the London School of Economics and Political Science <img alt="LSE" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LSE_Logo.svg/319px-LSE_Logo.svg.png" />. I have a strong interest in Machine Learning, Deep Learning and Technology. Python and R programmer.
+I'm a Mathematics and Statistics student at the London School of Economics and Political Science <img alt="LSE" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LSE_Logo.svg/319px-LSE_Logo.svg.png" />. I have a strong interest in Machine Learning, Deep Learning and Technology. 
 
 - 🔭 I’m currently working on financial forecasting and MLOps
 - 🌱 I’m currently learning a bunch of stuff
-- 😄 Pronouns: he/him
-
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
