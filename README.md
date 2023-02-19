@@ -16,19 +16,11 @@
 
 __________________________
 
-I'm a Mathematics and Statistics student at the London School of Economics and Political Science <img alt="LSE" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LSE_Logo.svg/319px-LSE_Logo.svg.png" />. I have a strong interest in Machine Learning, Deep Learning and Technology. 
+I'm a Mathematics and Statistics student at the London School of Economics and Political Science <img alt="LSE" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LSE_Logo.svg/319px-LSE_Logo.svg.png" />. 
 
-- 🔭 I’m currently working on financial forecasting and MLOps
-- 🌱 I’m currently learning a bunch of stuff
 
-**⚡ Languages and Tools:**  
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Weight&Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
-![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn)
-![Latex](https://img.shields.io/badge/Latex-008080?style=flat-square&logo=Latex)
+I am passionate about Machine Learning and Deep Learning, with a focus on Tabular, Time Series, Natural Language Processing, and Computer Vision applications. I strive to constantly keep up with the latest developments in the field through open source contributions, Kaggle competitions, and reading academic papers whenever I have time to kill. If you would like to learn more about me, please visit my personal website [here](https://hazrulakmal.github.io/).
+
+
+
+
