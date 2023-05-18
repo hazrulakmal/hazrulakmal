@@ -24,4 +24,6 @@ I am passionate about Machine Learning and Deep Learning, with a focus on Time S
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hazrulakmal&theme=codeSTACKr&show_icons=true&hide=stars">
 </p>
-
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=hazrulakmal&theme=highcontrast&hide_border=true&starting_year=2021&card_width=445)">
+</p>
